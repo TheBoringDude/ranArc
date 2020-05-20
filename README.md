@@ -1,5 +1,4 @@
 ![RanARC Logo](/app.png)
-
 # ranArc
 Simple random article giver across the internet.
 
