@@ -1,0 +1,1 @@
+A simple APP for giving random articles around the internet for information purpose.
